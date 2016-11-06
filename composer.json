@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "lapixo/glide-symfony": "^1.0"
+        "lapixo/glide-symfony": "dev-master"
     },
     "require-dev": {
         "mockery/mockery": "^0.9",
